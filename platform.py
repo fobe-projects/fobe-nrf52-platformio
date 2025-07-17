@@ -21,7 +21,7 @@ from platformio.public import PlatformBase
 
 IS_WINDOWS = sys.platform.startswith("win")
 
-class Nordicnrf52Platform(PlatformBase):
+class Fobenordicnrf52Platform(PlatformBase):
 
     def is_embedded(self):
         return True
