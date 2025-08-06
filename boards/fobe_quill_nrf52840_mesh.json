@@ -63,6 +63,6 @@
     "require_upload_port": true,
     "wait_for_upload_port": true
   },
-  "url": "https://wiki.fobestudio.com/product/f1101",
+  "url": "https://docs.fobestudio.com/product/f1101",
   "vendor": "FoBE Studio"
 }
