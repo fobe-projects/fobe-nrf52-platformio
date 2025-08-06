@@ -54,7 +54,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "https://github.com/fobe-projects/fobe-nrf52-arduino.git#1.0.0"
+      "version": "https://github.com/fobe-projects/fobe-nrf52-arduino.git#1.7.0"
     },
     "framework-arduinonordicnrf5": {
       "type": "framework",
